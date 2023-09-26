@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="bg-zinc-900 flex justify-center items-center h-screen text-white w-screen p-10">
       <div className="flex justify-center">
+        <h1>ee</h1>
         <ConnectButton showBalance={false} />
       </div>
     </div>
